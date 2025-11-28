@@ -1,0 +1,20 @@
+Create or get a repository using
+git init or git clone <repo-url>
+(This starts Git tracking for the project.)
+
+Make changes to files in the working directory
+(Editing code or creating new files.)
+
+Add changes to staging area using
+git add .
+(This tells Git which changes you want to save.)
+
+Save changes permanently using
+git commit -m "message"
+(This creates a snapshot of your work.)
+
+Upload your work to remote repository using
+git push origin main
+(This shares your work with the team on GitHub/GitLab.)
+
+If you want, I can give a diagram, short 3-line version, or explain for interviews.
